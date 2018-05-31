@@ -1,9 +1,9 @@
 html {
-  background: url("../img/background.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
+	background: url("../img/background.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 body {
-  background:rgba(255,255,255,0.5); 
+	background:rgba(255,255,255,0.7);
 }

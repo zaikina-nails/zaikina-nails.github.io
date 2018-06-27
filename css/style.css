@@ -1,9 +1,11 @@
 html {
 	background: url("../img/background.jpg");
 	background-repeat: no-repeat;
-	background-size: cover;
+	background-size: cover;	
+	height: 100%;
 }
 
 body {
-	background:rgba(255,255,255,0.7);
+	min-height: 100%;
+	background:rgba(255,255,255,0.6);
 }
